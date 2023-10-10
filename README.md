@@ -1,4 +1,4 @@
-# youtubeclone:
+# GitHub Repository Description: YouTube Clone:
 The YouTube Clone project is a web application that mimics the core features and user interface of the popular video-sharing platform, YouTube. 
 
 # Description:
